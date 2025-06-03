@@ -1,4 +1,4 @@
-package HomeWork3;
+package HomeWork3.FactoryMethod;
 
 public abstract class CharacterCreator {
 

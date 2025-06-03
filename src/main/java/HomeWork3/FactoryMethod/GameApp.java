@@ -1,4 +1,4 @@
-package HomeWork3;
+package HomeWork3.FactoryMethod;
 
 public class GameApp {
     public static void main(String[] args) {
